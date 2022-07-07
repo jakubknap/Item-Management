@@ -32,7 +32,7 @@ List the ready features here:
 ![image](https://user-images.githubusercontent.com/93727414/177724669-5b08d0df-ffce-47ff-9c8e-cb532ec097b0.png)
 
 ## Project Structure
-![image](https://user-images.githubusercontent.com/93727414/177597136-a1789715-b2ff-49db-b096-ecb3b9567be0.png)
+![image](https://user-images.githubusercontent.com/93727414/177725103-504b810b-ba01-457c-bcab-97582f53aa4d.png)
 
 
 ## Setup
