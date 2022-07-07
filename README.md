@@ -22,7 +22,6 @@
 ## Features
 List the ready features here:
 - User can signup new account (registration), or login with username & password.
-- By User’s role we authorize the User to access resources.
 - The user can create his own items and display a list of them
 
 
@@ -38,7 +37,7 @@ List the ready features here:
 
 ## Setup
 ### Building the application
-- Clone this repository to your IDE (https://github.com/jakubknap/Item-Management.git)
+- Clone [this repository](https://github.com/jakubknap/Item-Management.git) to your IDE (https://github.com/jakubknap/Item-Management.git)
 - The project uses [Maven](https://maven.apache.org/) as a build tool. It already contains
 `.mvn` wrapper script, so there's no need to install maven.
 - Manually create the database at: jdbc:mysql://localhost:3306/test
