@@ -28,9 +28,9 @@ List the ready features here:
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/93727414/177596125-0f225ee3-a571-443b-83db-5946fbb0515e.png)
-![image](https://user-images.githubusercontent.com/93727414/177596189-5fa0f88f-516a-4bc9-9cbd-207f8d02fdc5.png)
-![image](https://user-images.githubusercontent.com/93727414/177596287-4ec0439a-5742-4af9-b7a9-d88294ff429d.png)
-![image](https://user-images.githubusercontent.com/93727414/177596350-76571c8b-d242-4e9c-acd2-8f2a7feeb6a6.png)
+![image](https://user-images.githubusercontent.com/93727414/177724543-f6e3687b-97d5-4f25-a47c-00e887b36340.png)
+![image](https://user-images.githubusercontent.com/93727414/177724620-00e5ca15-c25b-4304-87cb-624cb97cea13.png)
+![image](https://user-images.githubusercontent.com/93727414/177724669-5b08d0df-ffce-47ff-9c8e-cb532ec097b0.png)
 
 ## Project Structure
 ![image](https://user-images.githubusercontent.com/93727414/177597136-a1789715-b2ff-49db-b096-ecb3b9567be0.png)
