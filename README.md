@@ -40,7 +40,7 @@ List the ready features here:
 - Clone [this repository](https://github.com/jakubknap/Item-Management.git) to your IDE (https://github.com/jakubknap/Item-Management.git)
 - The project uses [Maven](https://maven.apache.org/) as a build tool. It already contains
 `.mvn` wrapper script, so there's no need to install maven.
-- Manually create the database at: jdbc:mysql://localhost:3306/test
+- Manually create the database at: localhost:3306/test
  ```bash
   CREATE DATABASE test
 ```
